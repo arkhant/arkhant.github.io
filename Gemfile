@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.6.2"
-gem "github-pages", "~> 168"
-gem "rake", "~> 12.3.0"
+# gem "rails"
+gem "jekyll"
+gem 'jekyll-paginate'
+gem 'jekyll-feed'
