@@ -14,3 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+testing:
+  name: testing
+  description: Solo para rastrear
+  cover: assets/images/test1.jpg
