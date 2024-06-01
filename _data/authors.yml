@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+arkhant:
+  username: arkhant
+  name: arkhant htd
+  location: JAL, MX
+  url_full: https://arkhant.github.io
+  url: arkhant.github.io
+  bio: The Tryer
+  picture: assets/images/yo.jpg
+  facebook: arkhant
+  twitter: arkhant
+  cover: assets/images/Leech.jpg
