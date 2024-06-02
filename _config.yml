@@ -92,3 +92,8 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+
+
+pagination:
+  per_page: 5
+  template: _includes/index.html
