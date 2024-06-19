@@ -1,5 +1,5 @@
 module Jekyll
-
+  
   class AuthorsGenerator < Generator
 
     safe true
